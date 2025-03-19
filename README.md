@@ -1,12 +1,14 @@
 📱 Flutter News App
 A simple Flutter-based News App that fetches news articles from an API, displays them in a list, and allows users to toggle Dark Mode.
 
+
 🌟 Features
 ✅ Fetches and displays news articles from an API 📡
 ✅ Supports Light & Dark Mode with persistent theme settings 🌙☀️
 ✅ Uses Provider for state management
 ✅ Caches Dark Mode preference with SharedPreferences
 ✅ Optimized UI with smooth scrolling
+
 
 🛠 Installation
 1️⃣ Clone the Repository
@@ -25,6 +27,8 @@ sh
 Copy
 Edit
 flutter run
+
+
 📂 Project Structure
 bash
 Copy
